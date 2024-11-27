@@ -4,7 +4,6 @@
 \title{Possum Measurements}
 \usage{
   data(possum)
-  data(fossum)
   }
 \description{
 The \code{possum} data frame consists of nine morphometric
